@@ -4,20 +4,42 @@
   <a/>
 </h1>
 <br/>
-<h3>👨‍💻 A curious and creative web developer</h3>
+<h2 align="center">✨ Ferney Quiroga — Full Stack Web Developer</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,js,ts,nodejs,java,spring,aws" alt="Tech stack" />
+</p>
+
+<hr>
+
+<h3>👨‍🎨 <u>Focused on Front-End</u></h3>
+<p>
+  I craft modern and interactive user interfaces using <strong>React</strong>, <strong>Angular</strong>, and <strong>Vue.js</strong>, blending cutting-edge design trends like:
+</p>
+
 <ul>
-  <li>
-    <strong>🎯 Focused on Front-End</strong><br>
-    I specialize in building dynamic and intuitive user interfaces using technologies like <strong>React</strong>, <strong>Angular</strong>, and <strong>Vue.js</strong>. I'm passionate about creating smooth, accessible, and visually appealing user experiences.
-  </li>
-  <br>
-  <li>
-    <strong>🛠️ Exploring the Back-End</strong><br>
-    While my main strength lies in Front-End development, I also enjoy working on the server side. I have experience with <strong>Node.js</strong> and <strong>Java with Spring Boot</strong>, and I’m always looking to grow my full-stack skills.
-  </li>
-  <br>
-  <li>
-    <strong>📚 Learning with AWS</strong><br>
-    I'm currently expanding my cloud knowledge through Amazon's <strong>AWS Developer Learning Plan</strong>, aiming to integrate best practices and modern tools into my projects.
-  </li>
+  <li>📦 <strong>Bento Grid Layouts</strong></li>
+  <li>🧊 <strong>Glassmorphism</strong> & Soft UI</li>
+  <li>🌌 <strong>3D Effects</strong> using CSS & WebGL</li>
+  <li>🌀 <strong>Parallax Scrolling</strong> for immersive storytelling</li>
 </ul>
+
+<p>
+  I aim to deliver elegant, responsive and visually immersive experiences that go beyond the typical UI.
+</p>
+
+<hr>
+
+<h3>🛠️ <u>Exploring the Back-End</u></h3>
+<p>
+  While my passion lies in visual development, I enjoy working on the server side using <strong>Node.js</strong> and <strong>Java (Spring Boot)</strong>. I strive to grow as a full-stack developer by building scalable and robust APIs.
+</p>
+
+<hr>
+
+<h3>📚 <u>Currently Learning</u></h3>
+<p>
+  I'm diving into cloud development through the <strong>AWS Developer Learning Plan</strong> by Amazon. My goal is to integrate scalable cloud solutions into my future web applications.
+</p>
+
+<hr>
