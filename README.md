@@ -6,7 +6,6 @@
 <br/>
 <h2 align="center">👨‍💻 A curious and creative web developer</h2>
 
-<hr>
 
 <h3>👨‍🎨 <u>Focused on Front-End</u></h3>
 <p>
