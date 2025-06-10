@@ -4,11 +4,7 @@
   <a/>
 </h1>
 <br/>
-<h2 align="center">✨ Ferney Quiroga — Full Stack Web Developer</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,angular,vue,js,ts,nodejs,java,spring,aws" alt="Tech stack" />
-</p>
+<h2 align="center">👨‍💻 A curious and creative web developer</h2>
 
 <hr>
 
@@ -32,14 +28,36 @@
 
 <h3>🛠️ <u>Exploring the Back-End</u></h3>
 <p>
-  While my passion lies in visual development, I enjoy working on the server side using <strong>Node.js</strong> and <strong>Java (Spring Boot)</strong>. I strive to grow as a full-stack developer by building scalable and robust APIs.
+  I'm actively expanding my skills in backend development, working with technologies like:
+</p>
+
+<ul>
+  <li>⚙️ <strong>Node.js</strong> and <strong>Express</strong> — for building RESTful APIs and handling server-side logic efficiently.</li>
+  <li>☕ <strong>Java</strong> with <strong>Spring Boot</strong> — for creating scalable, enterprise-grade applications using dependency injection, MVC and JPA.</li>
+  <li>🗄️ <strong>MySQL</strong> and <strong>MongoDB</strong> — for managing structured and non-relational data with confidence.</li>
+  <li>🔐 Authentication with <strong>JWT</strong> and <strong>Passport.js</strong> — to build secure and modern login systems.</li>
+</ul>
+
+<p>
+  I’m also familiar with architectural patterns, clean code principles and agile methodologies like SCRUM, which I apply when collaborating with development teams.
 </p>
 
 <hr>
 
 <h3>📚 <u>Currently Learning</u></h3>
 <p>
-  I'm diving into cloud development through the <strong>AWS Developer Learning Plan</strong> by Amazon. My goal is to integrate scalable cloud solutions into my future web applications.
+  I'm currently focused on cloud development through the <strong>AWS Developer Learning Plan</strong> by Amazon, learning to integrate scalable and secure services into my web applications.
 </p>
 
-<hr>
+<ul>
+  <li>☁️ <strong>AWS Lambda</strong> — for building serverless backend logic.</li>
+  <li>📦 <strong>S3</strong> — to manage static assets and file storage.</li>
+  <li>🛠️ <strong>AWS API Gateway</strong> — to expose RESTful APIs securely and efficiently.</li>
+  <li>🔐 <strong>AWS IAM</strong> — for managing roles and permissions across services.</li>
+  <li>🧠 <strong>Cloud best practices</strong> — including scalability, fault tolerance, and CI/CD integration.</li>
+</ul>
+
+<p>
+  My goal is to implement cloud-native architectures that improve performance, reduce infrastructure costs, and are ready for production environments.
+</p>
+
