@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" src="https://github.com/Ferny1011/Ferny1011/blob/main/ferneyQ.gif?raw=true" width="450" alt="Ferney Quiroga" />
+<img align="right" src="https://github.com/Ferny1011/Ferny1011/blob/main/ferneyQ.gif?raw=true" width="390" alt="Ferney Quiroga" />
 
 <br/>
 
