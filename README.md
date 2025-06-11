@@ -1,14 +1,15 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋🏼,+I'm+Ferney+Quiroga!">
-  <a/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋🏼,+I'm+Ferney+Quiroga!" />
+  </a>
 </h1>
-    
-<h3 align="center" >👨‍💻 A curious and creative web developer</h3>
+
+<h3 align="center">👨‍💻 A curious and creative web developer</h3>
 
 <br/>
 
-<img align="right" src="https://drive.google.com/file/d/16PxoaTyNMj3Oxckwb1AsBT9JxsDJUux2/view?usp=sharing" />
+<img align="right" src="https://github.com/Ferny1011/Ferny1011/blob/main/ferneyQ.gif?raw=true" width="450" alt="Ferney Quiroga" />
+
 
 <h3>👨‍🎨 <u>Focused on Front-End</u></h3>
 <p>
@@ -51,6 +52,13 @@
   I'm currently focused on cloud development through the <strong>AWS Developer Learning Plan</strong> by Amazon, learning to integrate scalable and secure services into my web applications.
 </p>
 
+<ul>
+  <li>☁️ <strong>AWS Lambda</strong> — for serverless logic</li>
+  <li>📦 <strong>S3</strong> — for object storage</li>
+  <li>🔐 <strong>IAM</strong> — for identity and permissions</li>
+  <li>🌐 <strong>API Gateway</strong> — to expose secure REST APIs</li>
+</ul>
+
 <p>
   My goal is to implement cloud-native architectures that improve performance, reduce infrastructure costs, and are ready for production environments.
 </p>
@@ -58,15 +66,13 @@
 <hr>
 
 <div align="center"> 
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" target="_blank" />
+  <a href="https://linkedin.com/in/ferneyquiroga-webdeveloper" target="_blank">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" height="40" />
   </a>
-   <a href="mailto:fer-ney1011@outlook.com">
+  <a href="mailto:fer-ney1011@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
   </a>
   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" target="_blank" />
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" height="40" />
   </a>
 </div>
-
-
