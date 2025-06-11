@@ -47,12 +47,31 @@
 
 <hr>
 
-<h3>📚 <u>Currently Learning</u></h3>
-<p>
-  I'm currently focused on cloud development through the <strong>AWS Developer Learning Plan</strong> by Amazon, learning to integrate scalable and secure services into my web applications.
+<h3 align="center">🛠️ Tech Stack & Skills</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,sass,bootstrap,tailwind,js,ts,react,angular,vue" />
 </p>
-<p>
-  My goal is to implement cloud-native architectures that improve performance, reduce infrastructure costs, and are ready for production environments.
+<p align="center">
+  <strong>Frontend:</strong> HTML5, CSS3, SASS, JavaScript, TypeScript, React, Angular, Vue, Bootstrap, Tailwind
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,mysql,mongodb,python" />
+</p>
+<p align="center">
+  <strong>Backend & Databases:</strong> Node.js, Express, Java, Spring Boot, MySQL, MongoDB, Python
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,aws" />
+</p>
+<p align="center">
+  <strong>Tools & Others:</strong> Git, GitHub, AWS (Learning), JWT, Passport.js, SCRUM
 </p>
 
 <hr>
