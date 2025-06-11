@@ -8,7 +8,7 @@
 
 <br/>
 
-<img align="right" src="" />
+<img align="right" src="https://drive.google.com/file/d/16PxoaTyNMj3Oxckwb1AsBT9JxsDJUux2/view?usp=sharing" />
 
 <h3>👨‍🎨 <u>Focused on Front-End</u></h3>
 <p>
@@ -51,17 +51,11 @@
   I'm currently focused on cloud development through the <strong>AWS Developer Learning Plan</strong> by Amazon, learning to integrate scalable and secure services into my web applications.
 </p>
 
-<ul>
-  <li>☁️ <strong>AWS Lambda</strong> — for building serverless backend logic.</li>
-  <li>📦 <strong>S3</strong> — to manage static assets and file storage.</li>
-  <li>🛠️ <strong>AWS API Gateway</strong> — to expose RESTful APIs securely and efficiently.</li>
-  <li>🔐 <strong>AWS IAM</strong> — for managing roles and permissions across services.</li>
-  <li>🧠 <strong>Cloud best practices</strong> — including scalability, fault tolerance, and CI/CD integration.</li>
-</ul>
-
 <p>
   My goal is to implement cloud-native architectures that improve performance, reduce infrastructure costs, and are ready for production environments.
 </p>
+
+<hr>
 
 <div align="center"> 
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
