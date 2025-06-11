@@ -51,28 +51,24 @@
 <p>
   I'm currently focused on cloud development through the <strong>AWS Developer Learning Plan</strong> by Amazon, learning to integrate scalable and secure services into my web applications.
 </p>
-
-<ul>
-  <li>☁️ <strong>AWS Lambda</strong> — for serverless logic</li>
-  <li>📦 <strong>S3</strong> — for object storage</li>
-  <li>🔐 <strong>IAM</strong> — for identity and permissions</li>
-  <li>🌐 <strong>API Gateway</strong> — to expose secure REST APIs</li>
-</ul>
-
 <p>
   My goal is to implement cloud-native architectures that improve performance, reduce infrastructure costs, and are ready for production environments.
 </p>
 
 <hr>
 
-<div align="center"> 
-  <a href="https://linkedin.com/in/ferneyquiroga-webdeveloper" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" height="40" />
+<h3 align="center">🌐 Connect with me</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ferneyquiroga-webdeveloper" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/linkedin.png" width="40" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:fer-ney1011@outlook.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/secured-letter.png" width="40" alt="Email" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" height="40" />
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/ferq1011/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/1DA1F2/instagram-new--v1.png" width="40" alt="Instagram" />
   </a>
-</div>
+</p>
