@@ -7,10 +7,9 @@
 <h3 align="center">👨‍💻 A curious and creative web developer</h3>
 
 <br/>
-
+<br/>
 <img align="right" src="https://github.com/Ferny1011/Ferny1011/blob/main/ferneyQ.gif?raw=true" width="390" alt="Ferney Quiroga" />
 
-<br/>
 
 <h3>👨‍🎨 <u>Focused on Front-End</u></h3>
 <p>
