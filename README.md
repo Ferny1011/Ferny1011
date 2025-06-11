@@ -3,9 +3,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+👋🏼,+I'm+Ferney+Quiroga!">
   <a/>
 </h1>
-<br/>
-<h2 align="center">👨‍💻 A curious and creative web developer</h2>
+    
+<h3 align="center" >👨‍💻 A curious and creative web developer</h3>
 
+<br/>
+
+<img align="right" src="" />
 
 <h3>👨‍🎨 <u>Focused on Front-End</u></h3>
 <p>
@@ -59,4 +62,17 @@
 <p>
   My goal is to implement cloud-native architectures that improve performance, reduce infrastructure costs, and are ready for production environments.
 </p>
+
+<div align="center"> 
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/linkedin.svg" target="_blank" />
+  </a>
+   <a href="mailto:fer-ney1011@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=blue" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://github.com/CLorant/readme-social-icons/blob/main/large/colored/instagram.svg" target="_blank" />
+  </a>
+</div>
+
 
